@@ -84,6 +84,12 @@ define('BOX_CUSTOMERS_CUSTOMERS', 'Clientes');
 // 2.3.4 changes bof 
 //define('BOX_CUSTOMERS_ORDERS', 'Pedidos');
 // orders box text in includes/boxes/orders.php 
+
+//MODULES_ADMIN_MENU_PAYPAL_HEADING
+define('MODULES_ADMIN_MENU_PAYPAL_HEADING', 'PayPal'); 
+define('MODULES_ADMIN_MENU_PAYPAL_START', 'Vende con PayPal'); 
+//
+
 define('BOX_HEADING_ORDERS', 'Pedidos'); 
 define('BOX_ORDERS_ORDERS', 'Pedidos'); 
 // 2.3.4 changes eof 
