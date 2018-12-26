@@ -250,12 +250,12 @@ define('TEXT_REQUIRED', '<span class="errorText">Obligatorio</span>');
 define('ERROR_TEP_MAIL', '<font face="Verdana, Arial" size="2" color="#ff0000"><strong><small>TEP ERROR:</small> No se puede enviar el correo electr&oacute;nico a trav&eacute;s del servidor SMTP especificado. Por favor, compruebe la configuraci&oacute;n del archivo php.ini y corregir el servidor SMTP si es necesario.</strong></font>');
 
 // category views
-define('TEXT_VIEW', 'View: ');
-define('TEXT_VIEW_LIST', ' List');
-define('TEXT_VIEW_GRID', ' Grid');
+define('TEXT_VIEW', 'Ver: ');
+define('TEXT_VIEW_LIST', ' Lista');
+define('TEXT_VIEW_GRID', ' Grilla');
 
 // search placeholder
-define('TEXT_SEARCH_PLACEHOLDER','Search');
+define('TEXT_SEARCH_PLACEHOLDER','Buscar');
 
 define('TEXT_CCVAL_ERROR_INVALID_DATE', 'La fecha de caducidad de la tarjeta de cr&eacute;dito no es v&aacute;lida. Por favor, compruebe la fecha y vuelva a intentarlo.');
 define('TEXT_CCVAL_ERROR_INVALID_NUMBER', 'El n&uacute;mero de tarjeta de cr&eacute;dito no es v&aacute;lida. Por favor, compruebe el n&uacute;mero y vuelva a intentarlo.');
