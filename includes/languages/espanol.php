@@ -219,6 +219,7 @@ define('IMAGE_BUTTON_WRITE_REVIEW', 'Escribir Comentario');
 define('SMALL_IMAGE_BUTTON_DELETE', 'Eliminar');
 define('SMALL_IMAGE_BUTTON_EDIT', 'Editar');
 define('SMALL_IMAGE_BUTTON_VIEW', 'Ver');
+define('SMALL_IMAGE_BUTTON_BUY', 'Comprar');
 
 define('ICON_ARROW_RIGHT', 'm&aacute;s');
 define('ICON_CART', 'En Cesta');
@@ -256,6 +257,12 @@ define('TEXT_VIEW_GRID', ' Grilla');
 
 // search placeholder
 define('TEXT_SEARCH_PLACEHOLDER','Buscar');
+
+//
+define('PRODUCT_SUBSCRIBED', '%s Ha sido agregado a tu Lista de notificaciones');
+define('PRODUCT_UNSUBSCRIBED', '%s Ha sido removido de tu Lista de notificaciones');
+define('PRODUCT_ADDED', '%s Ha sido agregado a tu carrito');
+define('PRODUCT_REMOVED', '%s Ha sido removido de tu carro');
 
 define('TEXT_CCVAL_ERROR_INVALID_DATE', 'La fecha de caducidad de la tarjeta de cr&eacute;dito no es v&aacute;lida. Por favor, compruebe la fecha y vuelva a intentarlo.');
 define('TEXT_CCVAL_ERROR_INVALID_NUMBER', 'El n&uacute;mero de tarjeta de cr&eacute;dito no es v&aacute;lida. Por favor, compruebe el n&uacute;mero y vuelva a intentarlo.');
