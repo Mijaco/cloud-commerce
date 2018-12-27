@@ -14,6 +14,10 @@ define('HEADING_TITLE_OPT', 'Opciones del Producto');
 define('HEADING_TITLE_VAL', 'Valores para Opciones');
 define('HEADING_TITLE_ATRIB', 'Atributos');
 
+define('HEADING_TITLE_OPT', 'Product Options');
+define('HEADING_TITLE_VAL', 'Option Values');
+define('HEADING_TITLE_ATRIB', 'Products Attributes');
+
 define('TABLE_HEADING_ID', 'ID');
 define('TABLE_HEADING_PRODUCT', 'Nombre del Producto');
 define('TABLE_HEADING_OPT_NAME', 'Nombre de la Opción');

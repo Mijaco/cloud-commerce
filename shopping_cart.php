@@ -24,7 +24,7 @@
   require('includes/template_top.php');
 ?>
 
-<h1 class="display-4"><?php echo HEADING_TITLE; ?></h1>
+<h1 class="display-4"><?php echo TEXT_IN_STOCK; ?></h1>
 
 <?php
   if ($messageStack->size('product_action') > 0) {
