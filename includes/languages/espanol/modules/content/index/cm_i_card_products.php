@@ -17,7 +17,7 @@
   const MODULE_CONTENT_CARD_PRODUCTS_TITLE       = 'Productos Nuevos';
   const MODULE_CONTENT_CARD_PRODUCTS_DESCRIPTION = 'Muestra el módulo "Productos Nuevos" en tu página de inicio.';
   
-  const MODULE_CONTENT_CARD_PRODUCTS_HEADING     = 'Productos Nuevos para %s';
+  const MODULE_CONTENT_CARD_PRODUCTS_HEADING     = 'Productos nuevos para %s';
   
   const MODULE_CONTENT_CARD_PRODUCTS_BUTTON_VIEW = '<i class="fa fa-eye"></i> View';
   const MODULE_CONTENT_CARD_PRODUCTS_BUTTON_BUY  = '<i class="fa fa-shopping-cart"></i> Buy';
