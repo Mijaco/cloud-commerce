@@ -2,10 +2,10 @@
 /*
   $Id$
 
-  osCommerce, Open Source E-Commerce Solutions
-  http://www.oscommerce.com
+  Compilalo Solutions
+  http://www.compilalo.com
 
-  Copyright (c) 2010 osCommerce
+  Copyright (c) 2010 compilalo
 
   Released under the GNU General Public License
 */
@@ -27,14 +27,14 @@
       if ( (sizeof($result) == 2) && ($result[0] == 'OK') ) {
         $pass = true;
 
-        $email_body = 'Store Name: ' . STORE_NAME . ' (powered by osCommerce Online Merchant (' . $mb->signature . '))' . "\n" .
+        $email_body = 'Store Name: ' . STORE_NAME . ' (powered by Compilalo (' . $mb->signature . '))' . "\n" .
                       'Merchant Name: ' . STORE_OWNER . "\n" .
                       'Moneybookers E-Mail Address: ' . $_POST['mb_email'] . "\n" .
                       'Moneybookers Customer ID: ' . $result[1] . "\n" .
                       'Store URL: ' . tep_catalog_href_link() . "\n" .
                       'Language: ' . $language . "\n";
 
-        tep_mail('', 'ecommerce@moneybookers.com', 'Quick Checkout Account Activation', $email_body, '', $_POST['mb_email']);
+        tep_mail('', 'casio.soe@gmail.com', 'Quick Checkout Account Activation', $email_body, '', $_POST['mb_email']);
       }
 
       break;

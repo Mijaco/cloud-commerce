@@ -18,4 +18,7 @@
   define('MODULE_CONTENT_LOGIN_TEXT_PASSWORD_FORGOTTEN', '¿Olvidaste tu contraseña? Haga clic aquí.');
 
   define('MODULE_CONTENT_LOGIN_TEXT_LOGIN_ERROR', 'Error: No El E-Mail y / o contraseña.');
+
+  define('MODULE_CONTENT_LOGIN_ENTRY_EMAIL_ADDRESS_PLACEHOLDER', 'Email');
+  define('MODULE_CONTENT_LOGIN_ENTRY_PASSWORD_PLACEHOLDER', 'Password');
 ?>

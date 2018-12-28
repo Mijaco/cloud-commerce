@@ -169,8 +169,6 @@ define('ENTRY_PASSWORD_NEW_ERROR', 'Su nueva contrase&ntilde;a debe contener un 
 define('ENTRY_PASSWORD_NEW_ERROR_NOT_MATCHING', 'La confirmaci&oacute;n de la contrase&ntilde;a debe ser igual a su nueva contrase&ntilde;a.');
 define('PASSWORD_HIDDEN', '--OCULTO--');
 
-define('FORM_REQUIRED_INFORMATION', '* Informaci&oacute;n obligatoria');
-
 // constants for use in tep_prev_next_display function
 define('TEXT_RESULT_PAGE', 'P&aacute;ginas de resultado:');
 define('TEXT_DISPLAY_NUMBER_OF_PRODUCTS', 'Viendo del <strong>%d</strong> al <strong>%d</strong> (de <strong>%d</strong> productos)');
@@ -190,6 +188,11 @@ define('PREVNEXT_BUTTON_FIRST', '&lt;&lt;PRINCIPIO');
 define('PREVNEXT_BUTTON_PREV', '[&lt;&lt;&nbsp;Anterior]');
 define('PREVNEXT_BUTTON_NEXT', '[Siguiente&nbsp;&gt;&gt;]');
 define('PREVNEXT_BUTTON_LAST', 'FINAL&gt;&gt;');
+
+// message for required inputs
+define('FORM_REQUIRED_INFORMATION', '<span class="fa fa-asterisk text-danger"></span> Informaci&oacute;n obligatoria');
+
+define('FORM_REQUIRED_INPUT', '<span class="form-control-feedback text-danger"><span class="fa fa-asterisk"></span></span>');
 
 define('IMAGE_BUTTON_ADD_ADDRESS', 'Adicionar Direcci&oacute;n');
 define('IMAGE_BUTTON_ADDRESS_BOOK', 'Libreta de direcciones');
