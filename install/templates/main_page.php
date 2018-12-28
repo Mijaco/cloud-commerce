@@ -3,7 +3,7 @@
   $Id$
 
   osCommerce, Open Source E-Commerce Solutions
-  http://www.oscommerce.com
+  http://www.compilalo.com
 
   Copyright (c) 2018 osCommerce
 
@@ -35,9 +35,9 @@
 
         <div id="headerShortcuts" class="col-sm-6">
           <ul class="nav justify-content-center">
-            <li class="nav-item"><a class="nav-link active" href="http://www.oscommerce.com" target="_blank">osCommerce Website</a></li>
-            <li class="nav-item"><a class="nav-link" href="http://www.oscommerce.com/support" target="_blank">Support</a></li>
-            <li class="nav-item"><a class="nav-link" href="http://www.oscommerce.info" target="_blank">Documentation</a></li>
+            <li class="nav-item"><a class="nav-link active" href="http://www.compilalo.com" target="_blank">osCommerce Website</a></li>
+            <li class="nav-item"><a class="nav-link" href="http://www.compilalo.com/support" target="_blank">Support</a></li>
+            <li class="nav-item"><a class="nav-link" href="http://www.compilalo.info" target="_blank">Documentation</a></li>
           </ul>
         </div>
       </div>
@@ -47,7 +47,7 @@
       <?php require('templates/pages/' . $page_contents); ?>
 
       <footer>
-        <div class="card bg-light mb-3 card-body text-center"><p>osCommerce Online Merchant Copyright &copy; 2000-<?php echo date('Y'); ?> <a href="http://www.oscommerce.com" target="_blank">osCommerce</a> (<a href="http://www.oscommerce.com/Us&amp;Legal" target="_blank">Copyright and Trademark Policy</a>)</p></div>
+        <div class="card bg-light mb-3 card-body text-center"><p>osCommerce Online Merchant Copyright &copy; 2000-<?php echo date('Y'); ?> <a href="http://www.compilalo.com" target="_blank">osCommerce</a> (<a href="http://www.compilalo.com/Us&amp;Legal" target="_blank">Copyright and Trademark Policy</a>)</p></div>
       </footer>
     </div>
 

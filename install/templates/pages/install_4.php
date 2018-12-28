@@ -3,7 +3,7 @@
   $Id$
 
   osCommerce, Open Source E-Commerce Solutions
-  http://www.oscommerce.com
+  http://www.compilalo.com
 
   Copyright (c) 2018 osCommerce
 
@@ -208,11 +208,11 @@
     <h2 class="h4">Step 4</h2>
     <div class="card">
       <div class="card-body">      
-        <p>Congratulations on installing and configuring osCommerce Online Merchant as your online store solution!</p>
+        <p>Congratulations on installing and configuring Compilalo as your online store solution!</p>
         <p>We wish you all the best with the success of your online store and welcome you to join and participate in our community.</p>
       </div>
       <div class="card-footer">      
-        <p>- <a class="card-link" href="http://www.oscommerce.com/Us&Team" target="_blank">The osCommerce Team</a></p>
+        <p>- <a class="card-link" href="http://www.compilalo.com/Us&Team" target="_blank">The Compilalo Team</a></p>
       </div>
     </div>
   </div>  

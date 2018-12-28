@@ -293,7 +293,7 @@
         <?php echo tep_draw_radio_field('gender', 'f', NULL, 'id="genderF" aria-describedby="atGender"'); ?>
         &nbsp;<label class="form-check-label" for="genderF"><?php echo FEMALE; ?></label>
       </div>    
-      <?php if (tep_not_null(ENTRY_GENDER_TEXT)) echo '<span id="atGender" class="form-text">' . ENTRY_GENDER_TEXT . '</span>'; ?>
+ 
       <div class="float-right">
         <?php echo FORM_REQUIRED_INPUT; ?>
       </div>
@@ -444,7 +444,7 @@
       <?php
       echo tep_get_country_list('country', NULL, 'required aria-required="true" aria-describedby="atCountry" id="inputCountry"');
       echo FORM_REQUIRED_INPUT;
-      if (tep_not_null(ENTRY_COUNTRY_TEXT)) echo '<span id="atCountry" class="form-text">' . ENTRY_COUNTRY_TEXT . '</span>';
+      
       ?>
     </div>
   </div>
