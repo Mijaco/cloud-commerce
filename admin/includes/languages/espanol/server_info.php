@@ -23,7 +23,7 @@ define('TITLE_DATABASE_HOST', 'Servidor de Base de Datos:');
 define('TITLE_DATABASE', 'Base de Datos:');
 define('TITLE_DATABASE_DATE', 'Fecha de la Base de Datos:');
 
-define('TEXT_EXPORT_INTRO', 'La siguiente información puede ser enviada a osCommerce haciendo clic en el botón Enviar. También puede guardar la información en un archivo, haga clic en Guardar. Esta información es totalmente anónima y no puede ser utilizada para identificar un sistema individual. Se utilizará para fines de soporte y desarrollo.');
+define('TEXT_EXPORT_INTRO', 'La siguiente información puede ser enviada a osCommerce haciendo click en el botón Enviar. También puede guardar la información en un archivo, haga click en Guardar. Esta información es totalmente anónima y no puede ser utilizada para identificar un sistema individual. Se utilizará para fines de soporte y desarrollo.');
 define('TEXT_EXPORT_INFO', 'Exportar la información del Servidor');
 
 define('SUCCESS_INFO_SUBMIT', 'Su información se ha enviado con éxito.');

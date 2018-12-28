@@ -15,7 +15,7 @@
 
   define('MODULE_CONTENT_LOGIN_HEADING_RETURNING_CUSTOMER', 'Ya Soy Cliente');
   define('MODULE_CONTENT_LOGIN_TEXT_RETURNING_CUSTOMER', 'Soy un cliente que vuelve.');
-  define('MODULE_CONTENT_LOGIN_TEXT_PASSWORD_FORGOTTEN', '¿Olvidaste tu contraseña? Haga clic aquí.');
+  define('MODULE_CONTENT_LOGIN_TEXT_PASSWORD_FORGOTTEN', '¿Olvidaste tu contraseña? Haga click aquí.');
 
   define('MODULE_CONTENT_LOGIN_TEXT_LOGIN_ERROR', 'Error: No El E-Mail y / o contraseña.');
 
