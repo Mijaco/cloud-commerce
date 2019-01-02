@@ -14,6 +14,10 @@ define('HEADING_TITLE', 'Pedidos');
 define('HEADING_TITLE_SEARCH', 'ID Pedido:');
 define('HEADING_TITLE_STATUS', 'Estado:');
 
+define('TAB_TITLE_SUMMARY','Resumen');
+define('TAB_TITLE_PRODUCTS','Productos');
+define('TAB_TITLE_STATUS_HISTORY','Historial de Status');
+
 define('TABLE_HEADING_COMMENTS', 'Comentarios');
 define('TABLE_HEADING_CUSTOMERS', 'Clientes');
 define('TABLE_HEADING_ORDER_TOTAL', 'Total Pedido');

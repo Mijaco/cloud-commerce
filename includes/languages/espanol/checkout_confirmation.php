@@ -28,4 +28,7 @@ define('HEADING_PAYMENT_INFORMATION', 'Datos del Pago');
 define('HEADING_ORDER_COMMENTS', 'Comentarios sobre su pedido');
 
 define('TEXT_EDIT', 'Editar');
+define('IMAGE_BUTTON_FINALISE_ORDER', 'Finalizar y Pagar mi Orden');
+define('HEADING_QTY', 'Cantidad');
+
 ?>

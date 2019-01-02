@@ -17,7 +17,7 @@
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
     <meta name="viewport" content="width=device-width, initial-scale=1">
 
-    <title>osCommerce, Starting Your Online Business</title>
+    <title>Compílalo, Starting Your Online Business</title>
     <meta name="robots" content="noindex,nofollow" />
     <link rel="icon" type="image/png" href="images/oscommerce_icon.png" />
     <link rel="stylesheet" href="https://stackpath.bootstrapcdn.com/bootstrap/4.1.0/css/bootstrap.min.css" integrity="sha384-9gVQ4dYFwwWSjIDZnLEWnxCjeSWFphJiwGPXr1jddIhOegiu1FwO5qRGvFXOdJZ4" crossorigin="anonymous">
@@ -35,7 +35,7 @@
 
         <div id="headerShortcuts" class="col-sm-6">
           <ul class="nav justify-content-center">
-            <li class="nav-item"><a class="nav-link active" href="http://www.compilalo.com" target="_blank">osCommerce Website</a></li>
+            <li class="nav-item"><a class="nav-link active" href="http://www.compilalo.com" target="_blank">Compílalo Website</a></li>
             <li class="nav-item"><a class="nav-link" href="http://www.compilalo.com/support" target="_blank">Support</a></li>
             <li class="nav-item"><a class="nav-link" href="http://www.compilalo.info" target="_blank">Documentation</a></li>
           </ul>
@@ -47,7 +47,7 @@
       <?php require('templates/pages/' . $page_contents); ?>
 
       <footer>
-        <div class="card bg-light mb-3 card-body text-center"><p>osCommerce Online Merchant Copyright &copy; 2000-<?php echo date('Y'); ?> <a href="http://www.compilalo.com" target="_blank">osCommerce</a> (<a href="http://www.compilalo.com/Us&amp;Legal" target="_blank">Copyright and Trademark Policy</a>)</p></div>
+        <div class="card bg-light mb-3 card-body text-center"><p>Compílalo Copyright &copy; 2000-<?php echo date('Y'); ?> <a href="http://www.compilalo.com" target="_blank">osCommerce</a> (<a href="http://www.compilalo.com/Us&amp;Legal" target="_blank">Copyright and Trademark Policy</a>)</p></div>
       </footer>
     </div>
 
