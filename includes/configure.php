@@ -13,8 +13,8 @@
 // Define the webserver and path parameters
 // * DIR_FS_* = Filesystem directories (local/physical)
 // * DIR_WS_* = Webserver directories (virtual/URL)
-  define('HTTP_SERVER', ''); // eg, http://localhost - should not be empty for productive servers
-  define('HTTPS_SERVER', ''); // eg, https://localhost - should not be empty for productive servers
+  define('HTTP_SERVER', 'http://ec2-3-83-143-133.compute-1.amazonaws.com'); // eg, http://localhost - should not be empty for productive servers
+  define('HTTPS_SERVER', 'https://ec2-3-83-143-133.compute-1.amazonaws.com'); // eg, https://localhost - should not be empty for productive servers
   define('ENABLE_SSL', false); // secure webserver for checkout procedure?
   define('HTTP_COOKIE_DOMAIN', '');
   define('HTTPS_COOKIE_DOMAIN', '');
@@ -28,10 +28,11 @@
   define('DIR_FS_DOWNLOAD_PUBLIC', DIR_FS_CATALOG . 'pub/');
 
 // define our database connection
-  define('DB_SERVER', ''); // eg, localhost - should not be empty for productive servers
-  define('DB_SERVER_USERNAME', '');
-  define('DB_SERVER_PASSWORD', '');
-  define('DB_DATABASE', 'osCommerce');
+  define('DB_SERVER', 'ec2-3-83-143-133.compute-1.amazonaws.com'); // eg, localhost - should not be empty for productive servers
+  define('DB_SERVER_USERNAME', 'mijail');
+  define('DB_SERVER_PASSWORD', 'THEBESt-20');
+  define('DB_DATABASE', 'comercio');
+  //define('DB_DATABASE', 'osCommerce');
   define('USE_PCONNECT', 'false'); // use persistent connections?
   define('STORE_SESSIONS', ''); // leave empty '' for default handler or set to 'mysql'
 ?>
